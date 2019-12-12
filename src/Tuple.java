@@ -1,8 +1,8 @@
 /** Trouvé sur le net, permet de d'avoir des tuples sous java. Permet d'utiliser un couple de coordonnées pour la Hashtable de Pays */
 
 public class Tuple {
-    private int x;
-    private int y;
+    int x;
+    int y;
 
     public Tuple(int x, int y) {
         this.x = x;
